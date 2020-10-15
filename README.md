@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/edson-a-soares/SICP.svg?branch=main)](https://travis-ci.org/edson-a-soares/SICP)
 
-### Introduction
+### About
 
 Notes, spinets, and solutions to **Structure and Interpretation of Computer Programs**.
 
