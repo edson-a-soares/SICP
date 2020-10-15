@@ -2,7 +2,7 @@
 
 ### About
 
-Notes, spinets, and solutions to **Structure and Interpretation of Computer Programs**.
+Notes, code snippets, and solutions to **Structure and Interpretation of Computer Programs**.
 
 ### Useful links
  - [RackUnit API](https://docs.racket-lang.org/rackunit/api.html)    
