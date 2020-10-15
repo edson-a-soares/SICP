@@ -21,4 +21,4 @@ install:
 - export PATH="${RACKET_DIR}/bin:${PATH}" #install-racket.sh can't set for us
 
 script:
- - raco test src/SICP
+ - raco test src

@@ -8,7 +8,7 @@
 (provide sum-of-squares)
 
 ;--------------------------------------------------------------
-; Module's main section
+; Module's main section.
 ;--------------------------------------------------------------
 
 (define (sum-of-squares x y)
@@ -16,7 +16,7 @@
 
 
 ;--------------------------------------------------------------
-; Module's testing section
+; Module's testing section.
 ;--------------------------------------------------------------
 (module+ test
   (require rackunit)
